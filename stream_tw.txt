@@ -43,6 +43,9 @@ DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
 DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
+DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdfreetv-tgc.cdn.hinet.net
+DOMAIN,ntdfreepc-tgc.cdn.hinet.net
 DOMAIN,p-app.dhub.hinet.net
 DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-SUFFIX,linetv.tw
